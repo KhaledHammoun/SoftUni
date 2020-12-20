@@ -9,7 +9,7 @@ namespace Test
             int[][] trying = new int[2][];
 
             trying[1][1] = 123;
-            Console.WriteLine(trying[1][1]);
+        Console.WriteLine(trying[1][1]);
         }
     }
 }
